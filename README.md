@@ -7,7 +7,6 @@ I'm a first-year Computer Science student at the University of Nottingham, passi
 - 🌱 I have hands-on experience with **HTML**, **CSS**, and **JavaScript**.
 - 📊 I’m also exploring data analysis models to deepen my understanding of how data can drive smarter decisions.
 - 👯 I’m open to collaborating on projects that blend web development with data-driven insights.
-- 📫 How to reach me: [carson.woodsdie@gmail.com](mailto:carson.woodsdie@gmail.com)
 
 ## Projects & Highlights
 - **[HackNotts-24](https://github.com/CarsonWoodside/HackNotts-24):** A project developed during HackNotts-24.
@@ -22,5 +21,9 @@ I'm a first-year Computer Science student at the University of Nottingham, passi
 I'm constantly evolving my skills by working on new projects and exploring cutting-edge technologies. Feel free to check back for updates or reach out if you'd like to collaborate!
 
 ---
+
+## Reach Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carson-woodside/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carson.woodsdie@gmail.com)
 
 *Thanks for stopping by my profile!*
