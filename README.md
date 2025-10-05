@@ -1,24 +1,21 @@
 # Hi, I'm Carson! 👋
 
-I'm a first-year Computer Science student at the University of Nottingham, passionate about **Web Development** and **AI**. I love creating interactive web experiences and exploring data to make interesting predictions.
+I'm a **second-year Computer Science student** at the University of Nottingham, passionate about **Web Development**, **AI**, and building projects that bring communities together. I love creating interactive full-stack applications and diving deep into data to uncover insights or enhance user experience.
 
 ## About Me
-- 🔭 I’m currently learning **React** and working on projects that leverage modern web technologies.
-- 🌱 I have hands-on experience with **HTML**, **CSS**, and **JavaScript**.
-- 📊 I’m also exploring data analysis models to deepen my understanding of how data can drive smarter decisions.
-- 👯 I’m open to collaborating on projects that blend web development with data-driven insights.
-
+- 🚀 Currently building **BoxBoxd**, a full-stack social platform for F1 fans to review races and seasons.
+- 🛠️ Experienced with **React**, **MongoDB**, **TailwindCSS**, and RESTful APIs.
+- 📊 Comfortable working with and visualising data using both frontend and backend tools.
+  
 ## Projects & Highlights
-- **[HackNotts-24](https://github.com/CarsonWoodside/HackNotts-24):** A project developed during HackNotts-24.
-- **[react-movie-website](https://github.com/CarsonWoodside/react-movie-website):** A React-based movie website inspired by CodingWithTIm's tutorial.
+- **[BoxBoxd](https://github.com/CarsonWoodside/BoxBoxd-frontend):** A social F1 review platform built with React, Express, and MongoDB.
+- **[TheFastestSector](https://github.com/CarsonWoodside/thefastestsector):** A frontend app visualising F1 data from the Ergast API.
+- **[HackNotts-24](https://github.com/CarsonWoodside/HackNotts-24):** A hackathon project built during HackNotts-24.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Technologies:** React, Node.js, Data Analysis Tools
-- **Interests:** Web Development, Data Analysis, Front-End Design
-
-## Learning Journey
-I'm constantly evolving my skills by working on new projects and exploring cutting-edge technologies. Feel free to check back for updates or reach out if you'd like to collaborate!
+- **Languages:** HTML, CSS, JavaScript, Python, SQL, TypeScript
+- **Technologies & Tools:** React, Node.js, Express, MongoDB, TailwindCSS, Git, Supabase, Playwright, Vercel
+- **Interests:** Full-Stack Web Development, AI Applications, Data Visualisation, UI/UX Design
 
 ---
 
@@ -26,4 +23,4 @@ I'm constantly evolving my skills by working on new projects and exploring cutti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carson-woodside/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carson.woodsdie@gmail.com)
 
-*Thanks for stopping by my profile!*
+*Thanks for checking out my profile — feel free to connect or collaborate!*
