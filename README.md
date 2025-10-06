@@ -14,7 +14,7 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, Python, SQL, TypeScript
-- **Technologies & Tools:** React, Node.js, Express, MongoDB, TailwindCSS, Git, Supabase, Playwright, Vercel
+- **Technologies & Tools:** React, Node.js, Express, MongoDB, TailwindCSS, Git, Supabase, Playwright, Vercel, QuillJS
 - **Interests:** Full-Stack Web Development, AI Applications, Data Visualisation, UI/UX Design
 
 ---
