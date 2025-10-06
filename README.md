@@ -9,7 +9,7 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
   
 ## Projects & Highlights
 - **[BoxBoxd](https://github.com/CarsonWoodside/BoxBoxd-frontend):** A social F1 review platform built with React, Express, and MongoDB.
-- **[TheFastestSector](https://github.com/CarsonWoodside/thefastestsector-website):** A frontend app visualising F1 data from the Ergast API.
+- **[TheFastestSector](https://github.com/CarsonWoodside/thefastestsector-website):** A blog platform app visualising F1 data from the Ergast API.
 - **[HackNotts-24](https://github.com/CarsonWoodside/HackNotts-24):** A hackathon project built during HackNotts-24.
 
 ## Skills
