@@ -4,7 +4,7 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 
 ## About Me
 - 🚀 Currently building **BoxBoxd**, a full-stack social platform for F1 fans to review races and seasons.
-- 🛠️ Experienced with **React**, **MongoDB**, **TailwindCSS**, and RESTful APIs.
+- 🛠️ Experienced with **React**, **MongoDB**, **TailwindCSS**, and **RESTful APIs**.
 - 📊 Comfortable working with and visualising data using both frontend and backend tools.
   
 ## Projects & Highlights
@@ -23,4 +23,4 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carson-woodside/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carson.woodsdie@gmail.com)
 
-*Thanks for checking out my profile — feel free to connect or collaborate!*
+*Thanks for checking out my profile - feel free to connect or collaborate!*
