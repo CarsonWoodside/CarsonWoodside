@@ -13,7 +13,7 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 - **[HackNotts-24](https://github.com/CarsonWoodside/HackNotts-24):** A hackathon project built during HackNotts-24.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, Python, SQL, TypeScript
+- **Languages:** JavaScript, TypeScript, HTML/CSS, Java, Python, C, SQL(SQLite), ARM Assembly, Haskell, LaTeX, JSON, Markdown
 - **Technologies & Tools:** React, Node.js, Express, MongoDB, TailwindCSS, Git, Supabase, Playwright, Vercel, QuillJS
 - **Interests:** Full-Stack Web Development, AI Applications, Data Visualisation, UI/UX Design
 
