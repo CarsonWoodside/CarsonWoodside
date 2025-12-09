@@ -25,4 +25,4 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 
 *Thanks for checking out my profile - feel free to connect or collaborate!*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonWoodside)](https://github.com/anuraghazra/github-readme-stats)
+[![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonWoodside)](https://github.com/CarsonWoodside/github-readme-stats)
