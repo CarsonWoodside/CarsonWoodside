@@ -25,4 +25,6 @@ I'm a **second-year Computer Science student** at the University of Nottingham, 
 
 *Thanks for checking out my profile - feel free to connect or collaborate!*
 
-[![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonWoodside)](https://github.com/CarsonWoodside/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://deploy-github-readme-stats.vercel.app/api/top-langs?username=CarsonWoodside&layout=donut&langs_count=8&card_width=320&count_private=true&theme=merko" />
+</a>
