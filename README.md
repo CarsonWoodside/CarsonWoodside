@@ -23,7 +23,7 @@
   <tr align="center">
     <td>
       <img src="https://skillicons.dev/icons?i=react" width="50" title="React / Vite SPAs" /><br/>
-      <b>React / Vite SPAs</b>
+      <b>React / Vite Apps</b>
     </td>
     <td width="40"></td>
     <td>
