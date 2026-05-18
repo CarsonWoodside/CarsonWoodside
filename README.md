@@ -82,7 +82,7 @@
 
 <h3 align="center">🖥️ Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages" />
 </p>
 
 <h3 align="center">⚙️ Frameworks & Libraries</h3>
