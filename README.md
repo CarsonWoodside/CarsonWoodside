@@ -50,7 +50,7 @@
   <tr>
     <td align="center" width="300">
       <b>🏒 Blind Side Trading Card Tracker</b><br/><br/>
-      <sub>Fan-made Belfast Giants hockey card collection tracker. Dark mode, URL-persistent filters, import/export, and full UX polish. Built with React + Vite, deployed on Vercel.</sub><br/><br/>
+      <sub>Blindside sports trading cards tracker. Dark mode, URL-persistent filters, import/export, and full UX polish. Built with React + Vite, deployed on Vercel.</sub><br/><br/>
       <a href="https://blind-side-trading-tracker.vercel.app/#/set/belfast_giants__2025-26__series2">
         <img src="https://img.shields.io/badge/Live%20Demo-00ffcc?style=for-the-badge&logo=vercel&logoColor=1e1e2f" />
       </a>
